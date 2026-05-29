@@ -4,28 +4,28 @@
 
 | Hoạt động | Tôi đã làm gì? | Kết quả / ảnh hưởng |
 |---|---|---|
-| Scan cá nhân | Em tìm các pain point từ trải nghiệm học tập hiện tại, làm việc nhóm, rồi chọn ra những vấn đề có workflow rõ và có thể đo được. | Giúp nhóm có một số problem đủ thực tế |
+| Scan cá nhân | Tôi tìm các pain point từ trải nghiệm học tập hiện tại, làm việc nhóm, rồi chọn ra những vấn đề có workflow rõ và có thể đo được. | Giúp nhóm có một số problem đủ thực tế |
 | Pitch Problem Card | Tôi pitch card “Ôn bài kiến thức từ nhiều buổi, trên nhiều nền tảng LMS, GitHub, bài tập thực hành” vì thấy đây là pain rất đồng cảm với học viên và có thể vẽ workflow trước/sau rõ ràng. | Cho nhóm xem một problem có scope vừa đủ, không quá rộng. |
-| Challenge bài của bạn khác | Tôi đặt câu hỏi phản biện với các bài còn quá rộng hoặc có thể giải bằng process/rule đơn giản. | Nhóm tránh bị solution-first và loại bớt các hướng chưa đủ sắc.. |
+| Challenge bài của bạn khác | Tôi đặt câu hỏi về điều kiện kích hoạt với các bài còn mơ hồ hoặc có thể giải bằng Rule đơn giản. | Nhóm tránh bị solution-first |
 | Gom trùng / cluster | Tôi cùng nhóm gom các candidate gần nghĩa, tách nhóm chủ đề và rút shortlist. | Rút ra đươc top những problem có thể làm được |
-| Chọn candidate problem | Tôi ủng hộ chọn bài “chat nhóm -> checklist công việc” vì có actor rõ, workflow rõ và bottleneck thực tế. | Nhóm thống nhất được một bài đủ hẹp để làm trong lab hôm nay. |
-| Validation / research | Tôi đọc nhanh các giải pháp tương tự như summarize chat, extract action items, và tasking từ nội dung hội thoại. | Kết luận được rằng thị trường chủ yếu giải từng phần, chưa có giải pháp nào tự động hóa trọn luồng mà không cần người review. |
-| Workflow nhóm | Tôi cùng nhóm bóc workflow hiện tại thành từng bước: paste thread, AI draft, review, gửi checklist cuối. | Làm rõ bottleneck chính nằm ở việc bóc action item và chốt owner/deadline. |
-| Problem Statement | Tôi góp ý để Problem Statement bám đúng actor, workflow, bottleneck, metric và boundary. | Giúp bài không bị chung chung và đủ điều kiện để pitch. |
-| Rule / Workflow / Agent | Tôi cùng nhóm so sánh ba mức giải pháp và nghiêng về Workflow thay vì Agent. | Giúp nhóm không nhảy quá sớm sang tự động hóa quá mạnh. |
-| Decision | Tôi đồng ý chốt Go với scope nhỏ, pilot bằng một workflow bán thủ công có human review. | Giúp nhóm có hướng triển khai thực tế, an toàn và đo được. |
+| Chọn candidate problem | Tôi ủng hộ chọn bài “chat nhóm -> checklist công việc” vì có actor rõ, workflow rõ và bottleneck thực tế. | Nhóm thống nhất được một bài đủ hẹp để làm trong ngày hôm nay. |
+| Validation / research | Tôi điều kiện kích hoạt như PM hoặc người tổ chức cuộc họp cần gọi bot vào để ghi lại nội dung hội thoại và đưa ra bản phân chia công việc để người chủ trì và thành viên có thể duyệt trước khi đóng phiên làm việc. | Chưa có giải pháp nào tự động hóa trọn luồng mà không cần người review. |
+| Workflow nhóm | Tôi cùng nhóm bóc workflow hiện tại thành từng bước: paste thread, AI draft, review, gửi checklist cuối. | Làm rõ bottleneck chính ở việc tách các cái action item, tóm tắt nội dung buổi họp và chốt người chịu trách nhiệm cho mỗi deadline. |
+| Problem Statement | Tôi góp ý để Problem Card của nhóm bám đúng actor, workflow, bottleneck, metric và boundary. | Giúp đề bài bớt mơ hồ và đủ điều kiện để pitch. |
+| Rule / Workflow / Agent | Tôi cùng nhóm so sánh ba mức giải pháp và nghiêng về Workflow thay vì Agent. | Tránh việc cần nhiều Agent để tự động hoá, tự ý đưa ra quyết định thay vì Workflow dễ bảo trì, dễ dùng và cần 1 người chịu trách nhiệm cho việc phân chia công việc |
+| Decision | Tôi đồng ý quyết định Go với scope nhỏ, workflow bắt buộc phải có người chủ trì review. | Tránh việc sử dụng nhiều AI Agent để thay thế công việc đơn giản |
 
 ## Bảng dùng AI trong reflection
 
 | Phase | Tôi dùng AI để làm gì? | AI hữu ích ở đâu? | AI sai/hời hợt ở đâu? | Tôi sửa gì bằng nhận định của mình? |
-|---|---|---|---|---|
-| Scan | Tôi dùng AI để gợi ý thêm hướng nhìn từ các pain point đã có. | AI giúp mở rộng góc nhìn nhanh, nhất là khi cần nhiều candidate. | AI dễ đưa ra các vấn đề chung chung, thiếu bối cảnh thật. | Tôi chỉ giữ lại những problem mình thật sự có workflow để kể lại được. |
-| Problem Card | Tôi dùng AI để rà lại xem actor, bottleneck, metric đã rõ chưa. | AI giúp tôi nhìn ra chỗ nào còn mơ hồ hoặc quá rộng. | AI đôi khi gợi ý quá “sạch” nhưng không phản ánh độ rối thật của workflow. | Tôi chỉnh lại card theo pain thật của nhóm, không viết theo kiểu lý thuyết quá mức. |
-| Workflow | Tôi dùng AI để gợi ý cách vẽ before/after workflow. | AI giúp tôi mô tả luồng nhanh hơn và nhìn ra boundary. | AI có xu hướng làm workflow đẹp nhưng hơi lý tưởng hóa. | Tôi giữ lại bước review của người thật để workflow không bị ảo. |
-| Research | Tôi dùng AI để gợi ý các tool/giải pháp tương tự cần kiểm tra. | AI giúp khoanh vùng nhanh các hướng giải pháp có sẵn trên thị trường. | AI không tự thay được bước kiểm chứng nguồn và so sánh thực tế. | Tôi tự đọc lại và kết luận rằng bài này hợp Workflow hơn Agent. |
-| Problem Statement | Tôi dùng AI để kiểm tra xem 6 field đã đủ chặt chưa. | AI giúp tôi phát hiện chỗ thiếu metric, boundary hoặc actor còn rộng. | AI không biết ngữ cảnh lớp của mình nên dễ gợi ý rất chung. | Tôi viết lại theo đúng bài toán chat nhóm của nhóm mình, không để AI chốt thay. |
-| Rule / Workflow / Agent | Tôi dùng AI để phản biện xem có thể giải bằng rule trước không. | AI giúp tôi nghĩ lại về non-AI alternative. | AI dễ làm mình overestimate khả năng tự động hóa. | Tôi chốt theo hướng Workflow vì AI chỉ nên hỗ trợ một bước cụ thể. |
-| Decision | Tôi dùng AI để kiểm tra logic Go / Not Yet / No-Go. | AI giúp tôi nhìn ra rủi ro rollout và rollback. | AI không thay được quyết định cuối cùng của nhóm. | Tôi giữ quyết định Go với scope nhỏ vì có human review rõ. |
+|-------|------------------------|-------------------|----------------------|-------------------------------------|
+| Scan | Gợi ý thêm problem và mở rộng góc nhìn | Đưa ra nhiều workflow thực tế liên quan đến học tập và teamwork | Một số idea quá rộng kiểu "AI assistant toàn năng" | Chỉ giữ lại các problem có trải nghiệm thật và workflow rõ |
+| Problem Card | Phản biện bottleneck, metric và scope | Giúp nhìn ra problem còn mơ hồ hoặc chưa đo được | Có lúc đề xuất Agent quá sớm | Thu hẹp scope và chuyển sang Workflow AI |
+| Workflow | Gợi ý current/future workflow dạng ASCII | Giúp visualize bottleneck và human boundary | Một số bước chưa sát với workflow thực tế của nhóm | Chỉnh lại theo đúng cách nhóm đang làm việc |
+| Research | Tìm pattern/tool tương tự và quick validation | Gợi ý solution và risk phổ biến | Một số claim không có source rõ ràng | Chỉ giữ insight phù hợp với context nhóm |
+| Problem Statement | Kiểm tra metric, boundary và AI intervention point | Giúp structure Problem Statement rõ hơn | Có phần viết hơi generic | Điều chỉnh lại theo đúng actor và workflow thật |
+| Rule / Workflow / Agent | So sánh mức phù hợp của AI | Giúp phân biệt khi nào cần Workflow thay vì Agent | Ban đầu đánh giá hơi thiên về AI | Nhóm quyết định giữ solution ở mức Workflow đơn giản |
+| Decision | Tổng hợp risk và điều kiện để Go | Giúp nhìn rõ boundary và fallback | Chưa đánh giá đủ yếu tố teamwork thực tế | Bổ sung human review và pilot nhỏ trước |
 
 ## Reflection
 
@@ -47,7 +47,7 @@ Tôi đóng góp ở phần phân tích workflow hiện tại, xác định bott
 
 ### Điều khó nhất khi viết Problem Statement là gì?
 
-Khó nhất là phân biệt giữa symptom và root problem. Nhiều lúc mô tả quá chung hoặc vô tình nhảy sang solution thay vì tập trung vào pain thật sự của người dùng.
+Khó nhất là bottleneck và phân loại các hành vi của học viên. Nhiều lúc mô tả quá chung hoặc vô tình nhảy sang solution thay vì tập trung vào pain thật sự của người dùng.
 
 ### Nếu làm lại, tôi sẽ challenge nhóm mạnh hơn ở điểm nào?
 
