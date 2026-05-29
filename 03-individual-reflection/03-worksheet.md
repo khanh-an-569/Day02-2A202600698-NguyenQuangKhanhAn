@@ -31,23 +31,23 @@
 
 ### Tôi học được gì khi nghe top 3 problems của các bạn khác?
 
-Tôi học được rằng một problem tốt không chỉ là “đau” mà còn phải đủ cụ thể, có workflow rõ ràng và có thể validate được. Nhiều vấn đề ban đầu nghe hay nhưng khi đào sâu thì scope quá rộng hoặc khó xác định user thật sự.
+Tôi nhận thấy rằng cùng một bối cảnh học tập nhưng mỗi người lại nhìn ra bottleneck khác nhau. Bạn Phương tập trung vào onboarding, bạn Quyền tập trung vào communication và quản lý task. Điều này giúp tôi hiểu rằng problem tốt thường xuất phát từ pain thật và workflow cụ thể.
 
 ### Nhóm có lúc nào bị solution-first không?
 
-Có. Một vài lúc nhóm nghĩ ngay đến việc dùng AI Agent hoặc chatbot trước khi phân tích kỹ pain thật sự nằm ở đâu. Sau đó nhóm phải quay lại xác định rõ workflow hiện tại và bottleneck trước.
+Có. Gần như ngay lập tức nhóm đã nghĩ ngay đến việc dùng AI Agent hoặc chatbot trước khi phân tích kỹ pain thật sự nằm ở đâu. Sau đó nhóm phải quay lại xác định rõ workflow hiện tại và bottleneck trước, cuối cùng là vẫn phải có phần hậu kiểm của con người.
 
 ### Tôi có thay đổi ý kiến sau khi bị challenge không?
 
-Có. Ban đầu tôi nghĩ một số problem khá tiềm năng, nhưng sau khi bị challenge về scope và khả năng validate, tôi nhận ra cần thu hẹp bài toán để thực tế hơn.
+Có. Ban đầu tôi nghĩ problem của mình khá tiềm năng và thực tế đang diễn ra. Sau khi bị challenge về scope và khả năng output, tôi nhận ra cần thu hẹp bài toán để cá nhân hoá hơn.
 
 ### Tôi đóng góp gì thật sự vào artifact cuối?
 
-Tôi đóng góp ở phần phân tích workflow hiện tại, xác định bottleneck và viết problem statement cho các bài toán liên quan đến học viên và Lab Coach.
+Tôi đóng góp phần hậu kiểm bởi con người ở phần phân tích xác định bottleneck, workflow và so sánh R/W/A.
 
 ### Điều khó nhất khi viết Problem Statement là gì?
 
-Khó nhất là bottleneck và phân loại các hành vi của học viên. Nhiều lúc mô tả quá chung hoặc vô tình nhảy sang solution thay vì tập trung vào pain thật sự của người dùng.
+Khó nhất xác định được bottleneck. Nhiều lúc mô tả quá chung hoặc vô tình nhảy sang solution thay vì tập trung vào pain thật sự của người dùng.
 
 ### Nếu làm lại, tôi sẽ challenge nhóm mạnh hơn ở điểm nào?
 
